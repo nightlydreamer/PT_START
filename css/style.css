@@ -1,0 +1,57 @@
+body {    
+    background-color: #ffe6c0;
+    font-family: 'Courier New', Courier, monospace;
+}
+.nav_bar {
+    font-size: 24px;
+    font-weight: bold;
+}
+.container {
+    margin-top: 30px;
+}
+.row {
+
+}
+.col-12 {
+
+}
+.col-6 {
+
+}
+.col-4 {
+}
+.col-2.nav_logo {
+    background: url(../img/logo.jpeg) no-repeat center center;
+    background-size: 100%;
+    height: 50px;
+    width: 50px;
+}
+.col-3 {
+
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img_size {
+
+}
+.title_photo {
+    text-align: center;
+}
+
+.my_photo {
+    background: url(../img/1.jpg) no-repeat center center;
+    background-size: 100%;
+    height: 400px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.photo_text {
+    margin-left: auto;
+    margin-right: auto;
+}
