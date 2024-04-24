@@ -7,7 +7,7 @@ body {
     font-weight: bold;
 }
 .container {
-    margin-top: 30px;
+    margin-top: 20px;
 }
 .row {
 
@@ -54,4 +54,20 @@ body {
 .photo_text {
     margin-left: auto;
     margin-right: auto;
+}
+
+.button_js {
+    text-align: center;
+}
+
+#myButton {
+    background-color: rgb(128, 73, 0);
+    color: white;
+    width: 150px;
+    height: 40px;
+}
+
+#demo img {
+    margin-top: 10px;
+    width: 25%;
 }
