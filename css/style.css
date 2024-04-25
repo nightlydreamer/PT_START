@@ -13,7 +13,7 @@ body {
 
 }
 .col-12 {
-
+    text-align: center;
 }
 .col-6 {
 
@@ -70,4 +70,26 @@ body {
 #demo img {
     margin-top: 10px;
     width: 25%;
+}
+
+.form__reg {
+    margin-bottom: 5px;
+}
+
+.btn__reg {
+    background-color: rgb(128, 73, 0);
+    color: white;
+    border-radius: 2px;
+}
+
+.form_post {
+    margin-bottom: 5px;
+}
+
+.btn_post {
+    background-color: rgb(128, 73, 0);
+    color: white;
+    border-radius: 2px;
+    width: 160px;
+    height: 40px;
 }
