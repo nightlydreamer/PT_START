@@ -72,7 +72,7 @@
 </html>
 <?php
 require_once('db.php');
-$link = mysqli_connect('127.0.0.1', 'root', '1234', 'PT');
+$link = mysqli_connect('db', 'root', '1234', 'PT');
 if (isset($_POST['submit'])) {
     $title = $_POST['title'];
     $main_text = $_POST['text'];

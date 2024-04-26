@@ -22,7 +22,7 @@
             ?>
             <h1>Страница постов</h1>
             <?php
-                $link = mysqli_connect('127.0.0.1', 'root', '1234', 'PT');
+                $link = mysqli_connect('db', 'root', '1234', 'PT');
                 $sql = "SELECT * FROM posts";
                 $res = mysqli_query($link, $sql);
                 if (mysqli_num_rows($res) >  0) {
