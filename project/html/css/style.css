@@ -1,0 +1,95 @@
+body {    
+    background-color: #ffe6c0;
+    font-family: 'Courier New', Courier, monospace;
+}
+.nav_bar {
+    font-size: 24px;
+    font-weight: bold;
+}
+.container {
+    margin-top: 20px;
+}
+.row {
+
+}
+.col-12 {
+    text-align: center;
+}
+.col-6 {
+
+}
+.col-4 {
+}
+.col-2.nav_logo {
+    background: url(../img/logo.jpeg) no-repeat center center;
+    background-size: 100%;
+    height: 50px;
+    width: 50px;
+}
+.col-3 {
+
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img_size {
+
+}
+.title_photo {
+    text-align: center;
+}
+
+.my_photo {
+    background: url(../img/1.jpg) no-repeat center center;
+    background-size: 100%;
+    height: 400px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.photo_text {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button_js {
+    text-align: center;
+}
+
+#myButton {
+    background-color: rgb(128, 73, 0);
+    color: white;
+    width: 150px;
+    height: 40px;
+}
+
+#demo img {
+    margin-top: 10px;
+    width: 25%;
+}
+
+.form__reg {
+    margin-bottom: 5px;
+}
+
+.btn__reg {
+    background-color: rgb(128, 73, 0);
+    color: white;
+    border-radius: 2px;
+}
+
+.form_post {
+    margin-bottom: 5px;
+}
+
+.btn_post {
+    background-color: rgb(128, 73, 0);
+    color: white;
+    border-radius: 2px;
+    width: 160px;
+    height: 40px;
+}
